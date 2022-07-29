@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://anarinsk.github.io/myblog2/posts/post-with-code/index.html</loc>
-    <lastmod>2022-07-29T08:32:39.592Z</lastmod>
+    <lastmod>2022-07-29T08:46:12.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://anarinsk.github.io/myblog2/posts/post-with-code/test.html</loc>
+    <lastmod>2022-07-29T08:46:13.050Z</lastmod>
   </url>
   <url>
     <loc>https://anarinsk.github.io/myblog2/posts/welcome/index.html</loc>
-    <lastmod>2022-07-29T08:32:39.968Z</lastmod>
+    <lastmod>2022-07-29T08:46:13.377Z</lastmod>
   </url>
   <url>
     <loc>https://anarinsk.github.io/myblog2/index.html</loc>
-    <lastmod>2022-07-29T08:32:40.351Z</lastmod>
+    <lastmod>2022-07-29T08:46:13.736Z</lastmod>
   </url>
   <url>
     <loc>https://anarinsk.github.io/myblog2/about.html</loc>
-    <lastmod>2022-07-29T08:32:40.633Z</lastmod>
+    <lastmod>2022-07-29T08:46:14.027Z</lastmod>
   </url>
 </urlset>
