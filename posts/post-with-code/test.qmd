@@ -1,0 +1,11 @@
+---
+title: "새로만든 포스트"
+author: "허준석"
+date: "2022-07-29"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+## 새로 만든 포스트 
+
+- 잘 들어가나 보겠습니다. 
