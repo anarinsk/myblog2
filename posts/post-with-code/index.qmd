@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2022-07-29"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+재미 없다. 빨리 끝내라. 
+
+## 나는 재미있는데... 
+
